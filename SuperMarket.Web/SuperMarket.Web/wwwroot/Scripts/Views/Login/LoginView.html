@@ -1,0 +1,11 @@
+﻿<style>
+</style>
+<div ng-if="!vm.isLogged()">
+
+    <input type="email" class="form-control" ng-model="vm.Email" /><br />
+    <input type="password" class="form-control" ng-model="vm.Password" /><br />
+    <button class="btn btn-success" ng-click="vm.Login()">Login</button>
+</div>
+<div ng-if="vm.isLogged()">
+    <button class="btn btn-error" ng-click="vm.Logout()">Logout</button>
+</div>

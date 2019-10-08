@@ -1,0 +1,21 @@
+﻿<style>
+    .square {
+        width: 40px;
+        height: 20px;
+    }
+
+    h2 {
+        font-weight: 999;
+    }
+
+    th {
+        background-color: white;
+        border: 1px solid white;
+    }
+</style>
+
+<h2>{{ !vm.isInEditMode ? 'Add Rooms' : 'Edit mode'}}</h2>
+<div>    
+    <h2>Room list. Total {{vm.Rooms.length}}</h2>
+    <div ui-grid="vm.GridOptions"></div>
+</div> 

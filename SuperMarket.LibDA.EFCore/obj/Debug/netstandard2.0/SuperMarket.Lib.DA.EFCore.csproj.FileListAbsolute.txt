@@ -1,0 +1,72 @@
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfo.cs
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.deps.json
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CopyComplete
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csprojAssemblyReference.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CopyComplete
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csprojAssemblyReference.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CopyComplete
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.deps.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.deps.json
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csprojAssemblyReference.cache
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfoInputs.cache
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfo.cs
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CopyComplete
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+D:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.deps.json
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csprojAssemblyReference.cache
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CoreCompileInputs.cache
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfoInputs.cache
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.AssemblyInfo.cs
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.csproj.CopyComplete
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.dll
+E:\y\supermarketv1-master\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.Lib.DA.EFCore.pdb

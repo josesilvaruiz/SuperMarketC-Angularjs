@@ -1,0 +1,78 @@
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.runtimeconfig.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.runtimeconfig.dev.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DAL.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.Server.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DAL.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.Server.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csprojAssemblyReference.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorAssemblyInfo.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorAssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorTargetAssemblyInfo.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csproj.CopyComplete
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.deps.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.runtimeconfig.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.runtimeconfig.dev.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DA.EFCore.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.Server.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.Server.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DA.EFCore.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorAssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorTargetAssemblyInfo.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.pdb
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\appsettings.json
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.deps.json
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.runtimeconfig.json
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.runtimeconfig.dev.json
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.dll
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Web.pdb
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DA.EFCore.dll
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DAL.dll
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.dll
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.Server.dll
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DAL.pdb
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.Server.pdb
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.DA.EFCore.pdb
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\bin\Debug\netcoreapp2.2\SuperMarket.Lib.pdb
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csprojAssemblyReference.cache
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csproj.CoreCompileInputs.cache
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorAssemblyInfo.cache
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorAssemblyInfo.cs
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.AssemblyInfoInputs.cache
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.AssemblyInfo.cs
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.RazorTargetAssemblyInfo.cache
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.csproj.CopyComplete
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.dll
+D:\y\supermarketv1-master\SuperMarket.Web\SuperMarket.Web\obj\Debug\netcoreapp2.2\SuperMarket.Web.pdb

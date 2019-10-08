@@ -1,0 +1,4 @@
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.LibDA.EFCore.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.LibDA.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.LibDA.EFCore.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.LibDA.EFCore\obj\Debug\netstandard2.0\SuperMarket.LibDA.EFCore.AssemblyInfo.cs

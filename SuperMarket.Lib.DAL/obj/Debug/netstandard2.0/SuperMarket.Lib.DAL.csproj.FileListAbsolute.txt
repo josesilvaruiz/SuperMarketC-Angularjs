@@ -1,0 +1,72 @@
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfo.cs
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.deps.json
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CopyComplete
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\A4ALUMNO\source\repos\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CopyComplete
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CopyComplete
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.deps.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CopyComplete
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.deps.json
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csprojAssemblyReference.cache
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CoreCompileInputs.cache
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfoInputs.cache
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfo.cs
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CopyComplete
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+D:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.deps.json
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csprojAssemblyReference.cache
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CoreCompileInputs.cache
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfoInputs.cache
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.AssemblyInfo.cs
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.csproj.CopyComplete
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.dll
+E:\y\supermarketv1-master\SuperMarket.Lib.DAL\obj\Debug\netstandard2.0\SuperMarket.Lib.DAL.pdb

@@ -1,0 +1,53 @@
+﻿<style>
+.navbar-brand {
+     cursor: pointer;
+}
+.navbar-nav li {
+     cursor: pointer;
+ }
+.navbar {
+
+ 
+} 
+.navbar-nav li {
+    font-weight: 999;
+
+ }
+</style>
+
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle collapsed"
+        data-toggle="collapse"
+        data-target="#bs-example-navbar-collapse-1"
+        aria-expanded="false"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" ng-click="vm.ShowView('')">SuperMarket</a><div ng-if="vm.TokenService.isLogged()">Hola {{vm.TokenService.getUserId()}}</div>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+            <li ng-class="{active:vm.Route.current.activetab == 'login'}"><a ng-click="vm.ShowView('login')">Login</a></li>
+            <li ng-class="{active:vm.Route.current.activetab == 'registers'}"><a ng-click="vm.ShowView('registers')">Register</a></li>
+            <li ng-if="vm.TokenService.isLogged()" ng-class="{active:vm.Route.current.activetab == 'clients'}"><a ng-click="vm.ShowView('clients')">Clients</a></li>
+            <li ng-if="vm.TokenService.isLogged()" ng-class="{active:vm.Route.current.activetab == 'employees'}"><a ng-click="vm.ShowView('employees')">Employees</a></li>
+            <li ng-if="vm.TokenService.isLogged()" ng-class="{active:vm.Route.current.activetab == 'products'}"><a ng-click="vm.ShowView('products')">Products</a></li>
+            <li ng-if="vm.TokenService.isLogged()" ng-class="{active:vm.Route.current.activetab == 'lends'}"><a ng-click="vm.ShowView('orderitems')">OrderItems</a></li>
+            <li ng-if="vm.TokenService.isLogged()" ng-class="{active:vm.Route.current.activetab == 'orders'}"><a ng-click="vm.ShowView('orders')">Orders</a></li>
+
+        </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>

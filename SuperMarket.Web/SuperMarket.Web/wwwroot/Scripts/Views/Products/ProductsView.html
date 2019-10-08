@@ -1,0 +1,39 @@
+﻿<style>
+    h2{
+        font-weight: 999;
+    }
+            
+        .grid {
+
+            background-color: black;
+        }
+        .text-center {
+            text-align: center;
+        }
+</style>
+ <div>
+     <h2>{{ !vm.isInEditMode ? 'Add product' : 'Edit mode'}}</h2>
+
+    <form>
+        <h4>Product:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-product"></i></span>
+            <input type="text" ng-model="vm.ProductName" class="form-control" placeholder="Title" aria-describedby="basic-addon1">
+        </div>
+        <h4>Price:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-product"></i></span>
+            <input type="text" ng-model="vm.Price" class="form-control" placeholder="Author" aria-describedby="basic-addon1">
+        </div>
+
+        <div class="input-group">
+            <div ng-if="!vm.isInEditMode" class="btn btn-primary && glyphicon glyphicon-plus" ng-disabled="!vm.isDataValid()" ng-click="vm.isDataValid() && vm.AddNewProduct()">Add</div>
+            <div ng-if="vm.isInEditMode" class="btn btn-primary && glyphicon glyphicon-pencil" ng-disabled="!vm.isDataValid()" ng-click="vm.isDataValid() && vm.UpdateProduct()">Update</div>
+            <div class="btn btn-primary" ng-click="vm.Clean()">Clean</div>
+        </div>
+
+    </form>
+
+    <h2>Products list. Total {{vm.Products.length}}</h2>
+    <div ui-grid="vm.GridProducts"></div>
+</div> 

@@ -1,0 +1,49 @@
+﻿<style>
+    h2 {
+        font-weight: 999;
+    }
+
+    .grid {
+        background-color: black;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+</style>
+<div>
+    <h2>Register</h2>
+    <form>
+        <h4>Name:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-member"></i></span>
+            <input type="text" ng-model="vm.Name" class="form-control" placeholder="Name" aria-describedby="basic-addon1">
+        </div>
+        <h4>Surname1:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-member"></i></span>
+            <input type="text" ng-model="vm.Surname1" class="form-control" placeholder="Surname1" aria-describedby="basic-addon1">
+        </div>
+        <h4>Surname2:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-member"></i></span>
+            <input type="text" ng-model="vm.Surname2" class="form-control" placeholder="Surname2" aria-describedby="basic-addon1">
+        </div>
+        <h4>Email:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-member"></i></span>
+            <input type="email" ng-model="vm.Email" class="form-control" placeholder="Email" aria-describedby="basic-addon1">
+        </div>
+        <h4>Password:</h4>
+        <div class="input-group">
+            <span class="input-group-addon" aria-hidden="true"><i class=" glyphicon glyphicon-member"></i></span>
+            <input type="password" ng-model="vm.Password" class="form-control" placeholder="Password" aria-describedby="basic-addon1">
+        </div>
+
+        <div class="input-group">
+            <div ng-if="!vm.isInEditMode" class="btn btn-primary && glyphicon glyphicon-plus" ng-disabled="!vm.isDataValid()" ng-click="vm.isDataValid() && vm.AddNewEmployee()">Add</div>
+        </div>
+
+    </form>
+
+</div>

@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\y\\supermarketv1-master\\SuperMarket.Lib.DAL\\SuperMarket.Lib.DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\y\\supermarketv1-master\\SuperMarket.Lib.DAL\\SuperMarket.Lib.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\y\\supermarketv1-master\\SuperMarket.Lib.DAL\\SuperMarket.Lib.DAL.csproj",
+        "projectName": "SuperMarket.Lib.DAL",
+        "projectPath": "E:\\y\\supermarketv1-master\\SuperMarket.Lib.DAL\\SuperMarket.Lib.DAL.csproj",
+        "packagesPath": "C:\\Users\\JOSER\\.nuget\\packages\\",
+        "outputPath": "E:\\y\\supermarketv1-master\\SuperMarket.Lib.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JOSER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\y\\supermarketv1-master\\SuperMarket.Lib\\SuperMarket.Lib.csproj": {
+                "projectPath": "E:\\y\\supermarketv1-master\\SuperMarket.Lib\\SuperMarket.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\y\\supermarketv1-master\\SuperMarket.Lib\\SuperMarket.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\y\\supermarketv1-master\\SuperMarket.Lib\\SuperMarket.Lib.csproj",
+        "projectName": "SuperMarket.Lib",
+        "projectPath": "E:\\y\\supermarketv1-master\\SuperMarket.Lib\\SuperMarket.Lib.csproj",
+        "packagesPath": "C:\\Users\\JOSER\\.nuget\\packages\\",
+        "outputPath": "E:\\y\\supermarketv1-master\\SuperMarket.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JOSER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

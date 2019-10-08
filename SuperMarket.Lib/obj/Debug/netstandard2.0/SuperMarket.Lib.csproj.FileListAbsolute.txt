@@ -1,0 +1,44 @@
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\SuperMarket\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csprojAssemblyReference.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.deps.json
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csproj.CoreCompileInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfoInputs.cache
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfo.cs
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\torme\OneDrive\Escritorio\Proyecto final\erwer\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csprojAssemblyReference.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.deps.json
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csproj.CoreCompileInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfoInputs.cache
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfo.cs
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.dll
+C:\Users\A4ALUMNO\Desktop\Nueva carpeta\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.pdb
+D:\y\supermarketv1-master\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.deps.json
+D:\y\supermarketv1-master\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.dll
+D:\y\supermarketv1-master\SuperMarket.Lib\bin\Debug\netstandard2.0\SuperMarket.Lib.pdb
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csprojAssemblyReference.cache
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csproj.CoreCompileInputs.cache
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfoInputs.cache
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfo.cs
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.dll
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.pdb
+D:\y\supermarketv1-master\SuperMarket.Lib\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\y\supermarketv1-master\SuperMarket.Lib\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csproj.CopyComplete
+E:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csprojAssemblyReference.cache
+E:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.csproj.CoreCompileInputs.cache
+E:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfoInputs.cache
+E:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.AssemblyInfo.cs
+E:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.dll
+E:\y\supermarketv1-master\SuperMarket.Lib\obj\Debug\netstandard2.0\SuperMarket.Lib.pdb
